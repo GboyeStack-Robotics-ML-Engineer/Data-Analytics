@@ -18,6 +18,11 @@ Usually, a data-analysis project is designed to establish insights around a part
 
 For example, suppose a university professor collects data about their students, including the number of lectures attended, the hours spent studying, and the final grade achieved on the end of term exam. The professor could analyze the data to determine if there is a relationship between the amount of studying a student undertakes and the final grade they achieve. The professor might use the data to test a hypothesis that only students who study for a minimum number of hours can expect to achieve a passing grade.
 
-
 # What will we be doing?
 In this training respository, we'll explore and analyze grade data for a fictitious university class from a professor's point of view. We'll use Jupyter notebooks and several Python tools and libraries to clean the data set, apply statistical techniques to test several hypotheses about the data, and visualize the data to determine the relationships between variables.
+
+## NOTEBOOK ORDER
+* Getting Started with Numpy and Pandas
+* Visualizing Data uisng python
+* Exploring Real word Data 
+
